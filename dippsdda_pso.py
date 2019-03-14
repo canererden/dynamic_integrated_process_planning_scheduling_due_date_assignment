@@ -1074,9 +1074,7 @@ elif algoritma=="both":
     ga.run(iter_size)
     ga.finish_time = time.time()
     ga_bests=[x.best for x in ga.pop_list]
-
     #plot
-
     plt.plot(all_gbests,"-b",label='PSO')
     plt.plot(ga_bests, "-r", label='GA')
     plt.xlabel("iteration")

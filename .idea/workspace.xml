@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b524d4fb-fa53-4e27-8ae3-6ed63d301345" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dippsdda_pso.py" beforeDir="false" afterPath="$PROJECT_DIR$/dippsdda_pso.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -73,8 +74,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dippsdda_pso.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="463">
-              <caret line="584" column="19" selection-start-line="584" selection-start-column="19" selection-end-line="584" selection-end-column="19" />
+            <state relative-caret-position="254">
+              <caret line="1068" column="31" lean-forward="true" selection-start-line="1068" selection-start-column="31" selection-end-line="1068" selection-end-column="31" />
               <folding>
                 <element signature="e#0#59#0" expanded="true" />
               </folding>
@@ -375,7 +376,7 @@
       <workItem from="1552566311763" duration="6000" />
       <workItem from="1552568520056" duration="886000" />
       <workItem from="1552569605381" duration="725000" />
-      <workItem from="1552570444868" duration="54000" />
+      <workItem from="1552570444868" duration="599000" />
     </task>
     <task id="LOCAL-00001" summary="ilk adım">
       <created>1552569688894</created>
@@ -391,11 +392,25 @@
       <option name="project" value="LOCAL" />
       <updated>1552569968618</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ilk adım">
+      <created>1552570546665</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1552570546666</updated>
+    </task>
+    <task id="LOCAL-00004" summary="ilk deneme">
+      <created>1552570930566</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1552570930566</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="104078000" />
+    <option name="totallyTimeSpent" value="104623000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -408,6 +423,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="886" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4918033" weight="0.1773779" />
       <window_info id="Favorites" order="1" side_tool="true" />
@@ -438,7 +454,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ilk adım" />
-    <option name="LAST_COMMIT_MESSAGE" value="ilk adım" />
+    <MESSAGE value="ilk deneme" />
+    <option name="LAST_COMMIT_MESSAGE" value="ilk deneme" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
@@ -541,8 +558,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dippsdda_pso.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="463">
-          <caret line="584" column="19" selection-start-line="584" selection-start-column="19" selection-end-line="584" selection-end-column="19" />
+        <state relative-caret-position="254">
+          <caret line="1068" column="31" lean-forward="true" selection-start-line="1068" selection-start-column="31" selection-end-line="1068" selection-end-column="31" />
           <folding>
             <element signature="e#0#59#0" expanded="true" />
           </folding>
