@@ -1,0 +1,16 @@
+MANIFEST.in
+README.rst
+setup.cfg
+setup.py
+salabim/DejaVuSansMono.ttf
+salabim/README.rst
+salabim/__init__.py
+salabim/calibri.ttf
+salabim/changelog.txt
+salabim/license.txt
+salabim/mplus-1m-regular.ttf
+salabim/salabim.py
+salabim.egg-info/PKG-INFO
+salabim.egg-info/SOURCES.txt
+salabim.egg-info/dependency_links.txt
+salabim.egg-info/top_level.txt

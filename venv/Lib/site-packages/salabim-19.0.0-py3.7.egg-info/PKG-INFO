@@ -1,0 +1,15 @@
+Metadata-Version: 1.1
+Name: salabim
+Version: 19.0.0
+Summary: discrete event simulation in Python
+Home-page: https://github.com/salabim/salabim
+Author: Ruud van der Ham
+Author-email: info@salabim.org
+License: UNKNOWN
+Download-URL: https://github.com/salabim/salabim
+Description: salabim
+        
+        salabim is a discrete event simulation package in Python
+        with builtin *animation*.
+Keywords: statistics,math,simulation,des,discrete event simulation
+Platform: UNKNOWN
