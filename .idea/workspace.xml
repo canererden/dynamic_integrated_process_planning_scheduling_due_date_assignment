@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b524d4fb-fa53-4e27-8ae3-6ed63d301345" name="Default Changelist" comment="" />
+    <list default="true" id="b524d4fb-fa53-4e27-8ae3-6ed63d301345" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +34,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mini_pso/mini_pso.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
+            <state relative-caret-position="114">
               <caret line="10" column="21" selection-end-line="792" />
               <folding>
                 <element signature="e#0#59#0" expanded="true" />
@@ -71,8 +73,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dippsdda_pso.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="565" lean-forward="true" selection-start-line="565" selection-end-line="565" />
+            <state relative-caret-position="463">
+              <caret line="584" column="19" selection-start-line="584" selection-start-column="19" selection-end-line="584" selection-end-column="19" />
               <folding>
                 <element signature="e#0#59#0" expanded="true" />
               </folding>
@@ -118,6 +120,9 @@
       <replace>{3:&lt;30}</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/mini_pso/mini_pso.py" root0="SKIP_INSPECTION" />
   </component>
@@ -144,6 +149,7 @@
     <option name="width" value="1382" />
     <option name="height" value="754" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -156,7 +162,7 @@
     <property name="last_opened_file_path" value="$USER_HOME$/Google Drive/Academic/DIPPSDDA-PSO" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -368,11 +374,28 @@
       <workItem from="1552554508675" duration="5634000" />
       <workItem from="1552566311763" duration="6000" />
       <workItem from="1552568520056" duration="886000" />
+      <workItem from="1552569605381" duration="725000" />
+      <workItem from="1552570444868" duration="54000" />
     </task>
+    <task id="LOCAL-00001" summary="ilk adım">
+      <created>1552569688894</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1552569688894</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ilk adım">
+      <created>1552569968617</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1552569968618</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="103299000" />
+    <option name="totallyTimeSpent" value="104078000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -385,11 +408,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="886" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4918033" weight="0.1773779" />
       <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info id="Structure" order="2" sideWeight="0.50653595" visible="true" weight="0.18123393" />
+      <window_info id="Structure" order="2" sideWeight="0.50653595" visible="true" weight="0.18573265" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32850242" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -413,6 +435,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ilk adım" />
+    <option name="LAST_COMMIT_MESSAGE" value="ilk adım" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
@@ -477,7 +503,7 @@
     <entry file="file://$PROJECT_DIR$/myplot.png" />
     <entry file="file://$PROJECT_DIR$/mini_pso/mini_pso.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
+        <state relative-caret-position="114">
           <caret line="10" column="21" selection-end-line="792" />
           <folding>
             <element signature="e#0#59#0" expanded="true" />
@@ -515,8 +541,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dippsdda_pso.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="565" lean-forward="true" selection-start-line="565" selection-end-line="565" />
+        <state relative-caret-position="463">
+          <caret line="584" column="19" selection-start-line="584" selection-start-column="19" selection-end-line="584" selection-end-column="19" />
           <folding>
             <element signature="e#0#59#0" expanded="true" />
           </folding>
