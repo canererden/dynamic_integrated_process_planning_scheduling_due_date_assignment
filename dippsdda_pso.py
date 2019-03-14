@@ -1064,18 +1064,17 @@ elif algoritma=="both":
     #PSO
     pso_start_time=time.time()
     bas_pop = Swarm(pop_size, 0)
-    bas_pop.initialize_swarm()
     bas_pop.run(iter_size)
-    pso_finish_time=time.time()
-    #GA
+    pso_finish_time = time.time()
+    # GA
     ga = GeneticAlgorithm()
     ga.start_time = time.time()
     ga.initialize_population(10)
     ga.run(iter_size)
     ga.finish_time = time.time()
-    ga_bests=[x.best for x in ga.pop_list]
-    #plot
-    plt.plot(all_gbests,"-b",label='PSO')
+    ga_bests = [x.best for x in ga.pop_list]
+    # plot
+    plt.plot(all_gbests, "-b", label='PSO')
     plt.plot(ga_bests, "-r", label='GA')
     plt.xlabel("iteration")
     plt.ylabel("performance")
@@ -1083,3 +1082,5 @@ elif algoritma=="both":
     plt.legend(loc='best')
     plt.show()
     print("deneme")
+    bas_pop.initialize_swarm()
+

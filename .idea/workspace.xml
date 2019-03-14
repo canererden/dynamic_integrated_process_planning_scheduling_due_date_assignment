@@ -74,8 +74,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dippsdda_pso.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="254">
-              <caret line="1068" column="31" lean-forward="true" selection-start-line="1068" selection-start-column="31" selection-end-line="1068" selection-end-column="31" />
+            <state relative-caret-position="-4990">
+              <caret line="803" column="30" lean-forward="true" selection-start-line="803" selection-start-column="30" selection-end-line="803" selection-end-column="30" />
               <folding>
                 <element signature="e#0#59#0" expanded="true" />
               </folding>
@@ -376,7 +376,7 @@
       <workItem from="1552566311763" duration="6000" />
       <workItem from="1552568520056" duration="886000" />
       <workItem from="1552569605381" duration="725000" />
-      <workItem from="1552570444868" duration="599000" />
+      <workItem from="1552570444868" duration="1830000" />
     </task>
     <task id="LOCAL-00001" summary="ilk adım">
       <created>1552569688894</created>
@@ -406,11 +406,25 @@
       <option name="project" value="LOCAL" />
       <updated>1552570930566</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="GA PSO eklendi.">
+      <created>1552571086757</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1552571086757</updated>
+    </task>
+    <task id="LOCAL-00006" summary="deneme">
+      <created>1552571552794</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1552571552794</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="104623000" />
+    <option name="totallyTimeSpent" value="105854000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -437,8 +451,8 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.2871795" />
       <window_info anchor="bottom" id="Database Changes" order="7" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.4978038" visible="true" weight="0.29615384" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5021962" side_tool="true" weight="0.2868217" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.4974293" visible="true" weight="0.29615384" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5025707" side_tool="true" visible="true" weight="0.29615384" />
       <window_info anchor="bottom" x="-1280" y="23" width="1280" height="881" id="Python Console" maximized="true" order="11" type="WINDOWED" weight="0.50885665" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -455,7 +469,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ilk adım" />
     <MESSAGE value="ilk deneme" />
-    <option name="LAST_COMMIT_MESSAGE" value="ilk deneme" />
+    <MESSAGE value="GA PSO eklendi." />
+    <MESSAGE value="deneme" />
+    <option name="LAST_COMMIT_MESSAGE" value="deneme" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
@@ -558,8 +574,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dippsdda_pso.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="1068" column="31" lean-forward="true" selection-start-line="1068" selection-start-column="31" selection-end-line="1068" selection-end-column="31" />
+        <state relative-caret-position="-4990">
+          <caret line="803" column="30" lean-forward="true" selection-start-line="803" selection-start-column="30" selection-end-line="803" selection-end-column="30" />
           <folding>
             <element signature="e#0#59#0" expanded="true" />
           </folding>
