@@ -1081,6 +1081,5 @@ elif algoritma=="both":
     plt.title("Comparision GA and PSO Performance")
     plt.legend(loc='best')
     plt.show()
-    print("deneme")
     bas_pop.initialize_swarm()
 
