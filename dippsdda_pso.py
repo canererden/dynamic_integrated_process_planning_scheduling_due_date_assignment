@@ -726,7 +726,7 @@ class Swarm:
                 ddrule_velocity = [a + b + c for a, b, c in zip(inertia_ddrule, cognitive_ddrule, social_ddrule)]
                 new_ddrule_probs = [a + b for a, b in zip(particle.ddrule_probs, ddrule_velocity)]
                 normalized_ddrule_probs = [x / sum(new_ddrule_probs) for x in new_ddrule_probs]
-                print("normalized_ddrule_probs", normalized_ddrule_probs)
+                #print("normalized_ddrule_probs", normalized_ddrule_probs)
 
                 # new dsprule
                 inertia_dsprule = [x * Swarm.w for x in particle.velocity_dsprule]
@@ -1064,22 +1064,21 @@ elif algoritma=="both":
     #PSO
     pso_start_time=time.time()
     bas_pop = Swarm(pop_size, 0)
+    bas_pop.initialize_swarm()
     bas_pop.run(iter_size)
-    pso_finish_time = time.time()
-    # GA
+    pso_finish_time=time.time()
+    #GA
     ga = GeneticAlgorithm()
     ga.start_time = time.time()
     ga.initialize_population(10)
     ga.run(iter_size)
     ga.finish_time = time.time()
-    ga_bests = [x.best for x in ga.pop_list]
-    # plot
-    plt.plot(all_gbests, "-b", label='PSO')
+    ga_bests=[x.best for x in ga.pop_list]
+    #plot
+    plt.plot(all_gbests,"-b",label='PSO')
     plt.plot(ga_bests, "-r", label='GA')
     plt.xlabel("iteration")
     plt.ylabel("performance")
     plt.title("Comparision GA and PSO Performance")
     plt.legend(loc='best')
     plt.show()
-    bas_pop.initialize_swarm()
-
