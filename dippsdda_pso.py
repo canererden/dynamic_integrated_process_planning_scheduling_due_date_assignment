@@ -1067,7 +1067,6 @@ elif algoritma=="both":
     bas_pop.initialize_swarm()
     bas_pop.run(iter_size)
     pso_finish_time=time.time()
-
     #GA
     ga = GeneticAlgorithm()
     ga.start_time = time.time()
