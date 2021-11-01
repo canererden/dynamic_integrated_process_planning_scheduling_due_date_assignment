@@ -1,0 +1,501 @@
+current solution: [13, 7, 0, 1, 0, 1] fitness: 19.268500000000003 
+değiştirilecek noktalar: [4 1]
+x in genleri y ye kopyalandı
+yeni çözüm değerlendirilmek üzere oluşturuldu
+yeni çözüm değerlendirildi
+y_genes: [13, 8, 0, 1, 1, 1]
+yeni çözümün performansı: 20.046833333333332
+bir önceki çözümle arasındaki farkı: 0.7783333333333289
+daha kötü performans ancak p_accepte bakılıyor
+solution_y.fitness: 20.046833333333332, delta: 0.7783333333333289, p_accept: 0.2976543382625836
+x i y ile değiştirdikcurrent solution: [13, 8, 0, 1, 1, 1] fitness: 20.046833333333332 
+değiştirilecek noktalar: [2 3]
+x in genleri y ye kopyalandı
+yeni çözüm değerlendirilmek üzere oluşturuldu
+yeni çözüm değerlendirildi
+y_genes: [13, 8, 1, 0, 1, 1]
+yeni çözümün performansı: 18.18704166666667
+bir önceki çözümle arasındaki farkı: -1.8597916666666627
+daha iyi performansa sahip olduğu için yeni çözüm kabul edilir.
+x çözümünün genlerini değiştirdik.
+current solution: [13, 8, 1, 0, 1, 1] fitness: 18.18704166666667 
+değiştirilecek noktalar: [4 3]
+x in genleri y ye kopyalandı
+yeni çözüm değerlendirilmek üzere oluşturuldu
+yeni çözüm değerlendirildi
+y_genes: [13, 8, 1, 1, 0, 1]
+yeni çözümün performansı: 19.320666666666668
+bir önceki çözümle arasındaki farkı: 1.1336249999999986
+daha kötü performans ancak p_accepte bakılıyor
+solution_y.fitness: 19.320666666666668, delta: 1.1336249999999986, p_accept: 0.1425790971889856
+x i değiştirmedikcurrent solution: [13, 8, 1, 0, 1, 1] fitness: 18.18704166666667 
+değiştirilecek noktalar: [4 0]
+x in genleri y ye kopyalandı
+yeni çözüm değerlendirilmek üzere oluşturuldu
+yeni çözüm değerlendirildi
+y_genes: [16, 8, 1, 0, 0, 1]
+yeni çözümün performansı: 21.0145
+bir önceki çözümle arasındaki farkı: 2.8274583333333325
+daha kötü performans ancak p_accepte bakılıyor
+solution_y.fitness: 21.0145, delta: 2.8274583333333325, p_accept: 0.007001251851863848
+x i değiştirmedikcurrent solution: [13, 8, 1, 0, 1, 1] fitness: 18.18704166666667 
+değiştirilecek noktalar: [3 4]
+x in genleri y ye kopyalandı
+yeni çözüm değerlendirilmek üzere oluşturuldu
+yeni çözüm değerlendirildi
+y_genes: [13, 8, 1, 1, 0, 1]
+yeni çözümün performansı: 19.320666666666668
+bir önceki çözümle arasındaki farkı: 1.1336249999999986
+daha kötü performans ancak p_accepte bakılıyor
+solution_y.fitness: 19.320666666666668, delta: 1.1336249999999986, p_accept: 0.13100132263047073
+x i değiştirmedikcurrent solution: [13, 8, 1, 0, 1, 1] fitness: 18.18704166666667 
+değiştirilecek noktalar: [4 3]
+x in genleri y ye kopyalandı
+yeni çözüm değerlendirilmek üzere oluşturuldu
+yeni çözüm değerlendirildi
+y_genes: [13, 8, 1, 1, 0, 1]
+yeni çözümün performansı: 19.320666666666668
+bir önceki çözümle arasındaki farkı: 1.1336249999999986
+daha kötü performans ancak p_accepte bakılıyor
+solution_y.fitness: 19.320666666666668, delta: 1.1336249999999986, p_accept: 0.12521593029587103
+x i değiştirmedikcurrent solution: [13, 8, 1, 0, 1, 1] fitness: 18.18704166666667 
+değiştirilecek noktalar: [1 4]
+x in genleri y ye kopyalandı
+yeni çözüm değerlendirilmek üzere oluşturuldu
+yeni çözüm değerlendirildi
+y_genes: [13, 14, 1, 0, 0, 1]
+yeni çözümün performansı: 20.30825
+bir önceki çözümle arasındaki farkı: 2.121208333333332
+daha kötü performans ancak p_accepte bakılıyor
+solution_y.fitness: 20.30825, delta: 2.121208333333332, p_accept: 0.01875821821290066
+x i değiştirmedikcurrent solution: [13, 8, 1, 0, 1, 1] fitness: 18.18704166666667 
+değiştirilecek noktalar: [4 0]
+x in genleri y ye kopyalandı
+yeni çözüm değerlendirilmek üzere oluşturuldu
+yeni çözüm değerlendirildi
+y_genes: [16, 8, 1, 0, 0, 1]
+yeni çözümün performansı: 21.0145
+bir önceki çözümle arasındaki farkı: 2.8274583333333325
+daha kötü performans ancak p_accepte bakılıyor
+solution_y.fitness: 21.0145, delta: 2.8274583333333325, p_accept: 0.004412928882194595
+x i değiştirmedikcurrent solution: [13, 8, 1, 0, 1, 1] fitness: 18.18704166666667 
+değiştirilecek noktalar: [4 0]
+x in genleri y ye kopyalandı
+yeni çözüm değerlendirilmek üzere oluşturuldu
+yeni çözüm değerlendirildi
+y_genes: [16, 8, 1, 0, 0, 1]
+yeni çözümün performansı: 21.0145
+bir önceki çözümle arasındaki farkı: 2.8274583333333325
+daha kötü performans ancak p_accepte bakılıyor
+solution_y.fitness: 21.0145, delta: 2.8274583333333325, p_accept: 0.003878367851638164
+x i değiştirmedikcurrent solution: [13, 8, 1, 0, 1, 1] fitness: 18.18704166666667 
+değiştirilecek noktalar: [3 0]
+x in genleri y ye kopyalandı
+yeni çözüm değerlendirilmek üzere oluşturuldu
+yeni çözüm değerlendirildi
+y_genes: [16, 8, 1, 1, 1, 1]
+yeni çözümün performansı: 19.648583333333335
+bir önceki çözümle arasındaki farkı: 1.4615416666666654
+daha kötü performans ancak p_accepte bakılıyor
+solution_y.fitness: 19.648583333333335, delta: 1.4615416666666654, p_accept: 0.05286243230448417
+x i değiştirmedikcurrent solution: [13, 8, 1, 0, 1, 1] fitness: 18.18704166666667 
+değiştirilecek noktalar: [4 2]
+x in genleri y ye kopyalandı
+yeni çözüm değerlendirilmek üzere oluşturuldu
+yeni çözüm değerlendirildi
+y_genes: [13, 8, 0, 0, 0, 1]
+yeni çözümün performansı: 19.875083333333336
+bir önceki çözümle arasındaki farkı: 1.6880416666666669
+daha kötü performans ancak p_accepte bakılıyor
+solution_y.fitness: 19.875083333333336, delta: 1.6880416666666669, p_accept: 0.030789363358579503
+x i değiştirmedikcurrent solution: [13, 8, 1, 0, 1, 1] fitness: 18.18704166666667 
+değiştirilecek noktalar: [0 1]
+x in genleri y ye kopyalandı
+yeni çözüm değerlendirilmek üzere oluşturuldu
+yeni çözüm değerlendirildi
+y_genes: [28, 7, 1, 0, 1, 1]
+yeni çözümün performansı: 21.72297916666667
+bir önceki çözümle arasındaki farkı: 3.5359374999999993
+daha kötü performans ancak p_accepte bakılıyor
+solution_y.fitness: 21.72297916666667, delta: 3.5359374999999993, p_accept: 0.0005655456718759465
+x i değiştirmedikcurrent solution: [13, 8, 1, 0, 1, 1] fitness: 18.18704166666667 
+değiştirilecek noktalar: [4 0]
+x in genleri y ye kopyalandı
+yeni çözüm değerlendirilmek üzere oluşturuldu
+yeni çözüm değerlendirildi
+y_genes: [16, 8, 1, 0, 0, 1]
+yeni çözümün performansı: 21.0145
+bir önceki çözümle arasındaki farkı: 2.8274583333333325
+daha kötü performans ancak p_accepte bakılıyor
+solution_y.fitness: 21.0145, delta: 2.8274583333333325, p_accept: 0.0021618351653964595
+x i değiştirmedikcurrent solution: [13, 8, 1, 0, 1, 1] fitness: 18.18704166666667 
+değiştirilecek noktalar: [4 1]
+x in genleri y ye kopyalandı
+yeni çözüm değerlendirilmek üzere oluşturuldu
+yeni çözüm değerlendirildi
+y_genes: [13, 7, 1, 0, 0, 1]
+yeni çözümün performansı: 19.276416666666666
+bir önceki çözümle arasındaki farkı: 1.0893749999999969
+daha kötü performans ancak p_accepte bakılıyor
+solution_y.fitness: 19.276416666666666, delta: 1.0893749999999969, p_accept: 0.0881853711331999
+x i değiştirmedikcurrent solution: [13, 8, 1, 0, 1, 1] fitness: 18.18704166666667 
+değiştirilecek noktalar: [1 4]
+x in genleri y ye kopyalandı
+yeni çözüm değerlendirilmek üzere oluşturuldu
+yeni çözüm değerlendirildi
+y_genes: [13, 14, 1, 0, 0, 1]
+yeni çözümün performansı: 20.30825
+bir önceki çözümle arasındaki farkı: 2.121208333333332
+daha kötü performans ancak p_accepte bakılıyor
+solution_y.fitness: 20.30825, delta: 2.121208333333332, p_accept: 0.007752760717470832
+x i değiştirmedikcurrent solution: [13, 8, 1, 0, 1, 1] fitness: 18.18704166666667 
+değiştirilecek noktalar: [1 2]
+x in genleri y ye kopyalandı
+yeni çözüm değerlendirilmek üzere oluşturuldu
+yeni çözüm değerlendirildi
+y_genes: [13, 14, 0, 0, 1, 1]
+yeni çözümün performansı: 20.561166666666665
+bir önceki çözümle arasındaki farkı: 2.374124999999996
+daha kötü performans ancak p_accepte bakılıyor
+solution_y.fitness: 20.561166666666665, delta: 2.374124999999996, p_accept: 0.003718092467764893
+x i değiştirmedikcurrent solution: [13, 8, 1, 0, 1, 1] fitness: 18.18704166666667 
+değiştirilecek noktalar: [4 1]
+x in genleri y ye kopyalandı
+yeni çözüm değerlendirilmek üzere oluşturuldu
+yeni çözüm değerlendirildi
+y_genes: [13, 7, 1, 0, 0, 1]
+yeni çözümün performansı: 19.276416666666666
+bir önceki çözümle arasındaki farkı: 1.0893749999999969
+daha kötü performans ancak p_accepte bakılıyor
+solution_y.fitness: 19.276416666666666, delta: 1.0893749999999969, p_accept: 0.07117759360512294
+x i değiştirmedikcurrent solution: [13, 8, 1, 0, 1, 1] fitness: 18.18704166666667 
+değiştirilecek noktalar: [4 1]
+x in genleri y ye kopyalandı
+yeni çözüm değerlendirilmek üzere oluşturuldu
+yeni çözüm değerlendirildi
+y_genes: [13, 7, 1, 0, 0, 1]
+yeni çözümün performansı: 19.276416666666666
+bir önceki çözümle arasındaki farkı: 1.0893749999999969
+daha kötü performans ancak p_accepte bakılıyor
+solution_y.fitness: 19.276416666666666, delta: 1.0893749999999969, p_accept: 0.06570006896345862
+x i değiştirmedikcurrent solution: [13, 8, 1, 0, 1, 1] fitness: 18.18704166666667 
+değiştirilecek noktalar: [2 0]
+x in genleri y ye kopyalandı
+yeni çözüm değerlendirilmek üzere oluşturuldu
+yeni çözüm değerlendirildi
+y_genes: [16, 8, 0, 0, 1, 1]
+yeni çözümün performansı: 19.213916666666666
+bir önceki çözümle arasındaki farkı: 1.0268749999999969
+daha kötü performans ancak p_accepte bakılıyor
+solution_y.fitness: 19.213916666666666, delta: 1.0268749999999969, p_accept: 0.07088816756908208
+x i değiştirmedikcurrent solution: [13, 8, 1, 0, 1, 1] fitness: 18.18704166666667 
+değiştirilecek noktalar: [1 4]
+x in genleri y ye kopyalandı
+yeni çözüm değerlendirilmek üzere oluşturuldu
+yeni çözüm değerlendirildi
+y_genes: [13, 14, 1, 0, 0, 1]
+yeni çözümün performansı: 20.30825
+bir önceki çözümle arasındaki farkı: 2.121208333333332
+daha kötü performans ancak p_accepte bakılıyor
+solution_y.fitness: 20.30825, delta: 2.121208333333332, p_accept: 0.0035403493489023097
+x i değiştirmedikcurrent solution: [13, 8, 1, 0, 1, 1] fitness: 18.18704166666667 
+değiştirilecek noktalar: [1 4]
+x in genleri y ye kopyalandı
+yeni çözüm değerlendirilmek üzere oluşturuldu
+yeni çözüm değerlendirildi
+y_genes: [13, 14, 1, 0, 0, 1]
+yeni çözümün performansı: 20.30825
+bir önceki çözümle arasındaki farkı: 2.121208333333332
+daha kötü performans ancak p_accepte bakılıyor
+solution_y.fitness: 20.30825, delta: 2.121208333333332, p_accept: 0.002933240386972401
+x i değiştirmedikcurrent solution: [13, 8, 1, 0, 1, 1] fitness: 18.18704166666667 
+değiştirilecek noktalar: [0 1]
+x in genleri y ye kopyalandı
+yeni çözüm değerlendirilmek üzere oluşturuldu
+yeni çözüm değerlendirildi
+y_genes: [28, 7, 1, 0, 1, 1]
+yeni çözümün performansı: 21.72297916666667
+bir önceki çözümle arasındaki farkı: 3.5359374999999993
+daha kötü performans ancak p_accepte bakılıyor
+solution_y.fitness: 21.72297916666667, delta: 3.5359374999999993, p_accept: 4.291696017181237e-05
+x i değiştirmedikcurrent solution: [13, 8, 1, 0, 1, 1] fitness: 18.18704166666667 
+değiştirilecek noktalar: [4 2]
+x in genleri y ye kopyalandı
+yeni çözüm değerlendirilmek üzere oluşturuldu
+yeni çözüm değerlendirildi
+y_genes: [13, 8, 0, 0, 0, 1]
+yeni çözümün performansı: 19.875083333333336
+bir önceki çözümle arasındaki farkı: 1.6880416666666669
+daha kötü performans ancak p_accepte bakılıyor
+solution_y.fitness: 19.875083333333336, delta: 1.6880416666666669, p_accept: 0.006927434710700734
+x i değiştirmedikcurrent solution: [13, 8, 1, 0, 1, 1] fitness: 18.18704166666667 
+değiştirilecek noktalar: [4 1]
+x in genleri y ye kopyalandı
+yeni çözüm değerlendirilmek üzere oluşturuldu
+yeni çözüm değerlendirildi
+y_genes: [13, 7, 1, 0, 0, 1]
+yeni çözümün performansı: 19.276416666666666
+bir önceki çözümle arasındaki farkı: 1.0893749999999969
+daha kötü performans ancak p_accepte bakılıyor
+solution_y.fitness: 19.276416666666666, delta: 1.0893749999999969, p_accept: 0.035875889320787134
+x i değiştirmedikcurrent solution: [13, 8, 1, 0, 1, 1] fitness: 18.18704166666667 
+değiştirilecek noktalar: [0 1]
+x in genleri y ye kopyalandı
+yeni çözüm değerlendirilmek üzere oluşturuldu
+yeni çözüm değerlendirildi
+y_genes: [28, 7, 1, 0, 1, 1]
+yeni çözümün performansı: 21.72297916666667
+bir önceki çözümle arasındaki farkı: 3.5359374999999993
+daha kötü performans ancak p_accepte bakılıyor
+solution_y.fitness: 21.72297916666667, delta: 3.5359374999999993, p_accept: 1.3449357091539345e-05
+x i değiştirmedikcurrent solution: [13, 8, 1, 0, 1, 1] fitness: 18.18704166666667 
+değiştirilecek noktalar: [0 2]
+x in genleri y ye kopyalandı
+yeni çözüm değerlendirilmek üzere oluşturuldu
+yeni çözüm değerlendirildi
+y_genes: [28, 8, 0, 0, 1, 1]
+yeni çözümün performansı: 21.597416666666668
+bir önceki çözümle arasındaki farkı: 3.4103749999999984
+daha kötü performans ancak p_accepte bakılıyor
+solution_y.fitness: 21.597416666666668, delta: 3.4103749999999984, p_accept: 1.2994229547999342e-05
+x i değiştirmedikcurrent solution: [13, 8, 1, 0, 1, 1] fitness: 18.18704166666667 
+değiştirilecek noktalar: [3 2]
+x in genleri y ye kopyalandı
+yeni çözüm değerlendirilmek üzere oluşturuldu
+yeni çözüm değerlendirildi
+y_genes: [13, 8, 0, 1, 1, 1]
+yeni çözümün performansı: 20.046833333333332
+bir önceki çözümle arasındaki farkı: 1.8597916666666627
+daha kötü performans ancak p_accepte bakılıyor
+solution_y.fitness: 20.046833333333332, delta: 1.8597916666666627, p_accept: 0.0016762473298124027
+x i değiştirmedikcurrent solution: [13, 8, 1, 0, 1, 1] fitness: 18.18704166666667 
+değiştirilecek noktalar: [4 1]
+x in genleri y ye kopyalandı
+yeni çözüm değerlendirilmek üzere oluşturuldu
+yeni çözüm değerlendirildi
+y_genes: [13, 7, 1, 0, 0, 1]
+yeni çözümün performansı: 19.276416666666666
+bir önceki çözümle arasındaki farkı: 1.0893749999999969
+daha kötü performans ancak p_accepte bakılıyor
+solution_y.fitness: 19.276416666666666, delta: 1.0893749999999969, p_accept: 0.020112405215435687
+x i değiştirmedikcurrent solution: [13, 8, 1, 0, 1, 1] fitness: 18.18704166666667 
+değiştirilecek noktalar: [3 2]
+x in genleri y ye kopyalandı
+yeni çözüm değerlendirilmek üzere oluşturuldu
+yeni çözüm değerlendirildi
+y_genes: [13, 8, 0, 1, 1, 1]
+yeni çözümün performansı: 20.046833333333332
+bir önceki çözümle arasındaki farkı: 1.8597916666666627
+daha kötü performans ancak p_accepte bakılıyor
+solution_y.fitness: 20.046833333333332, delta: 1.8597916666666627, p_accept: 0.0009375732305966732
+x i değiştirmedikcurrent solution: [13, 8, 1, 0, 1, 1] fitness: 18.18704166666667 
+değiştirilecek noktalar: [4 2]
+x in genleri y ye kopyalandı
+yeni çözüm değerlendirilmek üzere oluşturuldu
+yeni çözüm değerlendirildi
+y_genes: [13, 8, 0, 0, 0, 1]
+yeni çözümün performansı: 19.875083333333336
+bir önceki çözümle arasındaki farkı: 1.6880416666666669
+daha kötü performans ancak p_accepte bakılıyor
+solution_y.fitness: 19.875083333333336, delta: 1.6880416666666669, p_accept: 0.001320575558959398
+x i değiştirmedikcurrent solution: [13, 8, 1, 0, 1, 1] fitness: 18.18704166666667 
+değiştirilecek noktalar: [3 4]
+x in genleri y ye kopyalandı
+yeni çözüm değerlendirilmek üzere oluşturuldu
+yeni çözüm değerlendirildi
+y_genes: [13, 8, 1, 1, 0, 1]
+yeni çözümün performansı: 19.320666666666668
+bir önceki çözümle arasındaki farkı: 1.1336249999999986
+daha kötü performans ancak p_accepte bakılıyor
+solution_y.fitness: 19.320666666666668, delta: 1.1336249999999986, p_accept: 0.009326830087673895
+x i değiştirmedikcurrent solution: [13, 8, 1, 0, 1, 1] fitness: 18.18704166666667 
+değiştirilecek noktalar: [0 1]
+x in genleri y ye kopyalandı
+yeni çözüm değerlendirilmek üzere oluşturuldu
+yeni çözüm değerlendirildi
+y_genes: [28, 7, 1, 0, 1, 1]
+yeni çözümün performansı: 21.72297916666667
+bir önceki çözümle arasındaki farkı: 3.5359374999999993
+daha kötü performans ancak p_accepte bakılıyor
+solution_y.fitness: 21.72297916666667, delta: 3.5359374999999993, p_accept: 2.1578070745390165e-07
+x i değiştirmedikcurrent solution: [13, 8, 1, 0, 1, 1] fitness: 18.18704166666667 
+değiştirilecek noktalar: [4 2]
+x in genleri y ye kopyalandı
+yeni çözüm değerlendirilmek üzere oluşturuldu
+yeni çözüm değerlendirildi
+y_genes: [13, 8, 0, 0, 0, 1]
+yeni çözümün performansı: 19.875083333333336
+bir önceki çözümle arasındaki farkı: 1.6880416666666669
+daha kötü performans ancak p_accepte bakılıyor
+solution_y.fitness: 19.875083333333336, delta: 1.6880416666666669, p_accept: 0.00043741176935397144
+x i değiştirmedikcurrent solution: [13, 8, 1, 0, 1, 1] fitness: 18.18704166666667 
+değiştirilecek noktalar: [4 0]
+x in genleri y ye kopyalandı
+yeni çözüm değerlendirilmek üzere oluşturuldu
+yeni çözüm değerlendirildi
+y_genes: [16, 8, 1, 0, 0, 1]
+yeni çözümün performansı: 21.0145
+bir önceki çözümle arasındaki farkı: 2.8274583333333325
+daha kötü performans ancak p_accepte bakılıyor
+solution_y.fitness: 21.0145, delta: 2.8274583333333325, p_accept: 1.1029214519259193e-06
+x i değiştirmedikcurrent solution: [13, 8, 1, 0, 1, 1] fitness: 18.18704166666667 
+değiştirilecek noktalar: [1 0]
+x in genleri y ye kopyalandı
+yeni çözüm değerlendirilmek üzere oluşturuldu
+yeni çözüm değerlendirildi
+y_genes: [16, 14, 1, 0, 1, 1]
+yeni çözümün performansı: 22.356
+bir önceki çözümle arasındaki farkı: 4.168958333333332
+daha kötü performans ancak p_accepte bakılıyor
+solution_y.fitness: 22.356, delta: 4.168958333333332, p_accept: 4.6451953466556763e-10
+x i değiştirmedikcurrent solution: [13, 8, 1, 0, 1, 1] fitness: 18.18704166666667 
+değiştirilecek noktalar: [1 2]
+x in genleri y ye kopyalandı
+yeni çözüm değerlendirilmek üzere oluşturuldu
+yeni çözüm değerlendirildi
+y_genes: [13, 14, 0, 0, 1, 1]
+yeni çözümün performansı: 20.561166666666665
+bir önceki çözümle arasındaki farkı: 2.374124999999996
+daha kötü performans ancak p_accepte bakılıyor
+solution_y.fitness: 20.561166666666665, delta: 2.374124999999996, p_accept: 2.1416431153793414e-06
+x i değiştirmedikcurrent solution: [13, 8, 1, 0, 1, 1] fitness: 18.18704166666667 
+değiştirilecek noktalar: [4 0]
+x in genleri y ye kopyalandı
+yeni çözüm değerlendirilmek üzere oluşturuldu
+yeni çözüm değerlendirildi
+y_genes: [16, 8, 1, 0, 0, 1]
+yeni çözümün performansı: 21.0145
+bir önceki çözümle arasındaki farkı: 2.8274583333333325
+daha kötü performans ancak p_accepte bakılıyor
+solution_y.fitness: 21.0145, delta: 2.8274583333333325, p_accept: 5.833738996064905e-08
+x i değiştirmedikcurrent solution: [13, 8, 1, 0, 1, 1] fitness: 18.18704166666667 
+değiştirilecek noktalar: [4 5]
+x in genleri y ye kopyalandı
+yeni çözüm değerlendirilmek üzere oluşturuldu
+yeni çözüm değerlendirildi
+y_genes: [13, 8, 1, 0, 0, 0]
+yeni çözümün performansı: 19.157
+bir önceki çözümle arasındaki farkı: 0.9699583333333308
+daha kötü performans ancak p_accepte bakılıyor
+solution_y.fitness: 19.157, delta: 0.9699583333333308, p_accept: 0.0021255240603723522
+x i değiştirmedikcurrent solution: [13, 8, 1, 0, 1, 1] fitness: 18.18704166666667 
+değiştirilecek noktalar: [1 0]
+x in genleri y ye kopyalandı
+yeni çözüm değerlendirilmek üzere oluşturuldu
+yeni çözüm değerlendirildi
+y_genes: [16, 14, 1, 0, 1, 1]
+yeni çözümün performansı: 22.356
+bir önceki çözümle arasındaki farkı: 4.168958333333332
+daha kötü performans ancak p_accepte bakılıyor
+solution_y.fitness: 22.356, delta: 4.168958333333332, p_accept: 3.5975373353012103e-13
+x i değiştirmedikcurrent solution: [13, 8, 1, 0, 1, 1] fitness: 18.18704166666667 
+değiştirilecek noktalar: [3 4]
+x in genleri y ye kopyalandı
+yeni çözüm değerlendirilmek üzere oluşturuldu
+yeni çözüm değerlendirildi
+y_genes: [13, 8, 1, 1, 0, 1]
+yeni çözümün performansı: 19.320666666666668
+bir önceki çözümle arasındaki farkı: 1.1336249999999986
+daha kötü performans ancak p_accepte bakılıyor
+solution_y.fitness: 19.320666666666668, delta: 1.1336249999999986, p_accept: 0.00020352013918543176
+x i değiştirmedikcurrent solution: [13, 8, 1, 0, 1, 1] fitness: 18.18704166666667 
+değiştirilecek noktalar: [1 4]
+x in genleri y ye kopyalandı
+yeni çözüm değerlendirilmek üzere oluşturuldu
+yeni çözüm değerlendirildi
+y_genes: [13, 14, 1, 0, 0, 1]
+yeni çözümün performansı: 20.30825
+bir önceki çözümle arasındaki farkı: 2.121208333333332
+daha kötü performans ancak p_accepte bakılıyor
+solution_y.fitness: 20.30825, delta: 2.121208333333332, p_accept: 2.5237304524329485e-08
+x i değiştirmedikcurrent solution: [13, 8, 1, 0, 1, 1] fitness: 18.18704166666667 
+değiştirilecek noktalar: [5 4]
+x in genleri y ye kopyalandı
+yeni çözüm değerlendirilmek üzere oluşturuldu
+yeni çözüm değerlendirildi
+y_genes: [13, 8, 1, 0, 0, 0]
+yeni çözümün performansı: 19.157
+bir önceki çözümle arasındaki farkı: 0.9699583333333308
+daha kötü performans ancak p_accepte bakılıyor
+solution_y.fitness: 19.157, delta: 0.9699583333333308, p_accept: 0.0001379345771473443
+x i değiştirmedikcurrent solution: [13, 8, 1, 0, 1, 1] fitness: 18.18704166666667 
+değiştirilecek noktalar: [4 5]
+x in genleri y ye kopyalandı
+yeni çözüm değerlendirilmek üzere oluşturuldu
+yeni çözüm değerlendirildi
+y_genes: [13, 8, 1, 0, 0, 0]
+yeni çözümün performansı: 19.157
+bir önceki çözümle arasındaki farkı: 0.9699583333333308
+daha kötü performans ancak p_accepte bakılıyor
+solution_y.fitness: 19.157, delta: 0.9699583333333308, p_accept: 4.540799137901017e-05
+x i değiştirmedikcurrent solution: [13, 8, 1, 0, 1, 1] fitness: 18.18704166666667 
+değiştirilecek noktalar: [1 5]
+x in genleri y ye kopyalandı
+yeni çözüm değerlendirilmek üzere oluşturuldu
+yeni çözüm değerlendirildi
+y_genes: [13, 14, 1, 0, 1, 0]
+yeni çözümün performansı: 19.914083333333334
+bir önceki çözümle arasındaki farkı: 1.7270416666666648
+daha kötü performans ancak p_accepte bakılıyor
+solution_y.fitness: 19.914083333333334, delta: 1.7270416666666648, p_accept: 1.4545435931517764e-09
+x i değiştirmedikcurrent solution: [13, 8, 1, 0, 1, 1] fitness: 18.18704166666667 
+değiştirilecek noktalar: [4 0]
+x in genleri y ye kopyalandı
+yeni çözüm değerlendirilmek üzere oluşturuldu
+yeni çözüm değerlendirildi
+y_genes: [16, 8, 1, 0, 0, 1]
+yeni çözümün performansı: 21.0145
+bir önceki çözümle arasındaki farkı: 2.8274583333333325
+daha kötü performans ancak p_accepte bakılıyor
+solution_y.fitness: 21.0145, delta: 2.8274583333333325, p_accept: 1.319905953093831e-17
+x i değiştirmedikcurrent solution: [13, 8, 1, 0, 1, 1] fitness: 18.18704166666667 
+değiştirilecek noktalar: [0 4]
+x in genleri y ye kopyalandı
+yeni çözüm değerlendirilmek üzere oluşturuldu
+yeni çözüm değerlendirildi
+y_genes: [28, 8, 1, 0, 0, 1]
+yeni çözümün performansı: 20.065375
+bir önceki çözümle arasındaki farkı: 1.8783333333333303
+daha kötü performans ancak p_accepte bakılıyor
+solution_y.fitness: 20.065375, delta: 1.8783333333333303, p_accept: 3.4994038717020166e-14
+x i değiştirmedikcurrent solution: [13, 8, 1, 0, 1, 1] fitness: 18.18704166666667 
+değiştirilecek noktalar: [0 4]
+x in genleri y ye kopyalandı
+yeni çözüm değerlendirilmek üzere oluşturuldu
+yeni çözüm değerlendirildi
+y_genes: [28, 8, 1, 0, 0, 1]
+yeni çözümün performansı: 20.065375
+bir önceki çözümle arasındaki farkı: 1.8783333333333303
+daha kötü performans ancak p_accepte bakılıyor
+solution_y.fitness: 20.065375, delta: 1.8783333333333303, p_accept: 1.513535406545799e-17
+x i değiştirmedikcurrent solution: [13, 8, 1, 0, 1, 1] fitness: 18.18704166666667 
+değiştirilecek noktalar: [1 0]
+x in genleri y ye kopyalandı
+yeni çözüm değerlendirilmek üzere oluşturuldu
+yeni çözüm değerlendirildi
+y_genes: [16, 14, 1, 0, 1, 1]
+yeni çözümün performansı: 22.356
+bir önceki çözümle arasındaki farkı: 4.168958333333332
+daha kötü performans ancak p_accepte bakılıyor
+solution_y.fitness: 22.356, delta: 4.168958333333332, p_accept: 1.6750247904064706e-50
+x i değiştirmedikcurrent solution: [13, 8, 1, 0, 1, 1] fitness: 18.18704166666667 
+değiştirilecek noktalar: [1 4]
+x in genleri y ye kopyalandı
+yeni çözüm değerlendirilmek üzere oluşturuldu
+yeni çözüm değerlendirildi
+y_genes: [13, 14, 1, 0, 0, 1]
+yeni çözümün performansı: 20.30825
+bir önceki çözümle arasındaki farkı: 2.121208333333332
+daha kötü performans ancak p_accepte bakılıyor
+solution_y.fitness: 20.30825, delta: 2.121208333333332, p_accept: 1.0237993292266004e-38
+x i değiştirmedikcurrent solution: [13, 8, 1, 0, 1, 1] fitness: 18.18704166666667 
+değiştirilecek noktalar: [2 1]
+x in genleri y ye kopyalandı
+yeni çözüm değerlendirilmek üzere oluşturuldu
+yeni çözüm değerlendirildi
+y_genes: [13, 7, 0, 0, 1, 1]
+yeni çözümün performansı: 20.591416666666667
+bir önceki çözümle arasındaki farkı: 2.404374999999998
+daha kötü performans ancak p_accepte bakılıyor
+solution_y.fitness: 20.591416666666667, delta: 2.404374999999998, p_accept: 7.545389145542537e-87
+x i değiştirmedik
