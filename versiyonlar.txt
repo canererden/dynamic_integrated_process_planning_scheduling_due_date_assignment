@@ -1,0 +1,10 @@
+https://stackoverflow.com/questions/50777849/from-conda-create-requirements-txt-for-pip3
+As the comment at the top indicates, the output of
+
+conda list -e > requirements.txt
+
+
+Yeni bir environment kur ve aşağıdaki gibi yap.
+can be used to create a conda virtual environment with
+
+conda create --name <env> --file requirements.txt
